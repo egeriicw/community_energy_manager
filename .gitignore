@@ -1,5 +1,3 @@
-*.pyc
 log.txt
-*.sql
-apps/accounts/migrations/*
-apps/weather/migrations/*
+apps/accounts/migrations
+apps/weather/migrations
