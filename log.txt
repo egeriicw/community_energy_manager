@@ -1,4 +1,0 @@
-Operations to perform:
-  Apply all migrations: admin, contenttypes, accounts, auth, sessions
-Running migrations:
-  Applying accounts.0003_auto_20141219_2046...
