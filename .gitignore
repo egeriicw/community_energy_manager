@@ -4,3 +4,4 @@
 log.txt
 apps/accounts/migrations/
 apps/weather/migrations/
+.idea
